@@ -6,3 +6,6 @@ function hello() {
 function no() {
   return "no";
 }
+function yes() {
+  return "yes";
+}
